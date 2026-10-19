@@ -1,0 +1,10 @@
+{
+    "name": "sgna",
+    "version": "1.0.0",
+    "description": "Sistema de Gestao de Notas Academicas",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "private": true
+}

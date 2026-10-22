@@ -112,8 +112,11 @@ Este projeto foi desenvolvido para fins educacionais, com o propósito de aplica
 
 Os dados utilizados para demonstração devem ser fictícios, sem exposição de informações pessoais ou acadêmicas reais.
 
-## Autor
+## Autores
 
+Erica Machado
+Giovanna Costa Buitoni
+Juliana Soares
 Pedro Henrique
 
 Projeto Integrador | Programação Web
